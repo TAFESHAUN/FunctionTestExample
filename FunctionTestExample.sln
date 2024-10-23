@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalCalcTest", "SalCalcTest\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculators", "Calculators\Calculators.csproj", "{8E1665A2-8412-47E5-BD3A-65C8D734274F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionUnitTest", "FunctionUnitTest\FunctionUnitTest.csproj", "{1ADAD186-7211-43F4-B919-F7A6BAD288E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8E1665A2-8412-47E5-BD3A-65C8D734274F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E1665A2-8412-47E5-BD3A-65C8D734274F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E1665A2-8412-47E5-BD3A-65C8D734274F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ADAD186-7211-43F4-B919-F7A6BAD288E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ADAD186-7211-43F4-B919-F7A6BAD288E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ADAD186-7211-43F4-B919-F7A6BAD288E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ADAD186-7211-43F4-B919-F7A6BAD288E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
